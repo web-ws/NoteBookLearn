@@ -21,7 +21,7 @@ Java有哪些数据类型
 	- 数组([])
 ###  Java基本数据类型图
 
-![img](https://raw.githubusercontent.com/images/202109241625848.png)
+![img](https://raw.githubusercontent.com/images/202109242112838.png)
 
 ### 相关问题
 
