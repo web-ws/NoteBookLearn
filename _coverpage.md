@@ -5,13 +5,14 @@
 - 做一个眼中有梁木的人，记录一路走来学习的计算机专业知识 ，力求完美构建 AI & CS & SE 知识体系
 
 <img src="https://img.shields.io/badge/version-v2.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v2.0.0-green.svg" alt=""> 
-<img src="https://img.shields.io/github/stars/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/stars/wugenqiang/NoteBook" alt=""> 
-<img src="https://img.shields.io/github/forks/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/forks/wugenqiang/NoteBook" alt="">
-<img src="https://img.shields.io/github/license/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/license/wugenqiang/NoteBook" alt="">
 
-<br>
+<img src="https://img.shields.io/github/stars/web-ws/NoteBookLearn" data-origin="https://img.shields.io/github/stars/web-ws/NoteBookLearn" alt=""> 
+<img src="https://img.shields.io/github/forks/web-ws/NoteBookLearn" data-origin="https://img.shields.io/github/forks/web-ws/NoteBookLearn" alt="">
+<img src="https://img.shields.io/github/license/web-ws/NoteBookLearn" data-origin="https://img.shields.io/github/license/web-ws/NoteBookLearn" alt="">
 
-<br>
+<br/>
+
+
 
 <span id="busuanzi_container_site_pv" style='display:none'>
     👀 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次

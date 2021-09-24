@@ -1,3 +1,5 @@
+
+
 # Docsify 文档构建说明书
 
 ## 1 引言
@@ -238,7 +240,7 @@ search: {
 * 操作：
 
 ```
-​```dot
+```dot
 digraph demo{
     A->B[dir=both];
     B->C[dir=none];
@@ -372,7 +374,7 @@ markdown: {
 * （3）使用命令：
 
 ```
-​```pdf
+```pdf
 path-to-the-pdf-file,,,example: https://wugenqiang.gitee.io/file-storage/pdf.js/web/viewer.html?file=../../%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B.pdf
 ​```
 ```
