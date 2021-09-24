@@ -86,7 +86,7 @@ public : 对所有类可见。使用对象：类、接口、变量、方法
 
 ### 访问修饰符图
 
-![img](https://raw.githubusercontent.com/images/202109241702592.png)
+![img](https://raw.githubusercontent.com/images/202109242114229.png)
 
 ## 运算符
 

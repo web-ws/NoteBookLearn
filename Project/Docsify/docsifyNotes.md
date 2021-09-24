@@ -22,7 +22,7 @@
 
 按 [Docsify](https://docsify.js.org) 官网的介绍，一句话:一个神奇的文档网站生成工具，使用它，可以使用简单的方式，构建一个专业的文档网站。如果使用过 `GitBook` 和 `Hexo` 的同仁，可以继续使用 `markdown` 编写文档，然后转为 `html` 进行显示。而 `docsify` 是一个动态生成文档网站的工具。不同于 `GitBook`、`Hexo` 的地方是它不会生成将 `.md` 转成 `.html` 文件，所有转换工作都是在运行时进行。只需要创建一个 `index.html` ，就可以开始写文档而且直接部署在 `GitHub Pages` 进行发布，方便、快捷、格式友好，样式不错。
 
-> 基于 Docsify 设计文档预览链接：[EnjoyToShare 项目笔记](https://notebook.js.org/)
+> 基于 Docsify 设计文档预览链接：[EnjoyToShare 项目笔记](https://https://github.com/web-ws/NoteBookLearn/)
 
 ## 3 使用 docsify 构建文档
 
@@ -897,9 +897,9 @@ css 代码如下：
 ```js
 <!-- 旧域名跳转 -->
 <script>
-    if (location.host != "notebook.js.org") {
-        alert("本网站已迁移到新网址：notebook.js.org，请按确定前往新网址");
-        window.location.href ="https://notebook.js.org/";
+    if (location.host != "https://github.com/web-ws/NoteBookLearn") {
+        alert("本网站已迁移到新网址：https://github.com/web-ws/NoteBookLearn，请按确定前往新网址");
+        window.location.href ="https://https://github.com/web-ws/NoteBookLearn/";
     }
 </script>
 ```
@@ -913,9 +913,9 @@ css 代码如下：
 ```js
 <!-- 旧域名跳转 -->
 <script>
-    if (location.host != "notebook.js.org" && location.host != "127.0.0.1:3000") {
-        alert('本站已迁移至新网址：notebook.js.org，请按"确定"键前往新网址');
-        window.location.href ="https://notebook.js.org/";
+    if (location.host != "https://github.com/web-ws/NoteBookLearn" && location.host != "127.0.0.1:3000") {
+        alert('本站已迁移至新网址：https://github.com/web-ws/NoteBookLearn，请按"确定"键前往新网址');
+        window.location.href ="https://https://github.com/web-ws/NoteBookLearn/";
     }
 </script>
 ```
